@@ -26,10 +26,10 @@ Share your screen across local devices without internet.
 ------------------------------
 
 ### Application Interface : 
-![Screen Task Main Window]([https://github.com/ahmedoalharbi/TrainMe/blob/main/TM.png?raw=true))
+![TrainMe Main Window]([https://github.com/ahmedoalharbi/TrainMe/blob/main/TM.png))
 
 ### Web UI :
-![Screen Task WebUI](https://github.com/ahmedoalharbi/TrainMe)
+![TrainMe WebUI](https://github.com/ahmedoalharbi/TrainMe)
 
 
 > Mobile View Supported [Thanks to Bootstrap 3]
