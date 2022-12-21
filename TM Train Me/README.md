@@ -26,7 +26,7 @@ Share your screen across local devices without internet.
 ------------------------------
 
 ### Application Interface : 
-![TrainMe Main Main Window](https://raw.githubusercontent.com/EslaMx7/ScreenTask/master/ScreenTask/ScreenTaskMain.v1.1.png)
+![TrainMe Main Main Window](https://raw.githubusercontent.com/ahmedoalharbi/TrainMe/main/TM.png)
 
 ### Web UI :
 ![TrainMe WebUI](https://github.com/ahmedoalharbi/TrainMe)
