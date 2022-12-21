@@ -29,7 +29,7 @@ Share your screen across local devices without internet.
 ![TrainMe Main Main Window](https://raw.githubusercontent.com/ahmedoalharbi/TrainMe/main/TM.png)
 
 ### Web UI :
-![TrainMe WebUI](https://github.com/ahmedoalharbi/TrainMe)
+![TrainMe WebUI](https://raw.githubusercontent.com/ahmedoalharbi/TrainMe/main/TMV.png)
 
 
 > Mobile View Supported [Thanks to Bootstrap 3]
