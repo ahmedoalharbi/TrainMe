@@ -5,7 +5,7 @@ Screen sharing made easy!
 Share your screen across local devices without internet.
 
 ## Windows Releases :
-### > [Download Installer (750 KB)](https://github.com/ahmedoalharbi/Train.Me.V1.2_Installer/blob/main/Train%20Me%20V1.2%20Installer.zip)
+### > [Download Installer (750 KB)](https://github.com/ahmedoalharbi/Train.Me.V1.2_Installer/archive/refs/heads/main.zip)
 
 ### > [Download ZIP Archive (292 KB)](https://github.com/ahmedoalharbi/ScreenTask)
 
