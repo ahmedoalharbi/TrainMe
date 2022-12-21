@@ -39,4 +39,4 @@ Share your screen across local devices without internet.
 > Works On Windows Vista , 7 , 8 , 10 | Windows XP Not Supported Since The .NET 4.5 Not Supported On It.
 
 ### License :
-Screen Task is released under the GPL v3 (or later) license, see : http://www.gnu.org/licenses/gpl-3.0.html
+TrainMe is released under the GPL v3 (or later) license, see : http://www.gnu.org/licenses/gpl-3.0.html
