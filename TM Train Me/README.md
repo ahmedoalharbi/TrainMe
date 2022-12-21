@@ -26,7 +26,7 @@ Share your screen across local devices without internet.
 ------------------------------
 
 ### Application Interface : 
-![Screen Task Main Window]([https://github.com/ahmedoalharbi/Train.Me.V1.2_Installer/blob/main/Train%20Me%20V1.2%20Installer.zip](https://i.ibb.co/n8Qbv7r/TM-Train-Me.png))
+![Screen Task Main Window]([https://github.com/ahmedoalharbi/TrainMe/blob/main/TM.png?raw=true))
 
 ### Web UI :
 ![Screen Task WebUI](https://github.com/ahmedoalharbi/TrainMe)
