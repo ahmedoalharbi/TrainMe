@@ -7,7 +7,9 @@ Share your screen across local devices without internet.
 ## Windows Releases :
 ### > [Download Installer (750 KB)](https://github.com/ahmedoalharbi/Train.Me.V1.2_Installer/archive/refs/heads/main.zip)
 
-### > [Download ZIP Archive (292 KB)]([https://github.com/ahmedoalharbi/Train.Me.V1.2_Installer/raw/main/TM%20Train%20Me%20v1.2%20Archive%20.zip))
+
+### > [Download ZIP Archive (750 KB)](https://github.com/ahmedoalharbi/Train.Me.V1.2_Installer/archive/refs/heads/main.zip)
+
 
 
 **Cross-Platform Version for ( Linux - OSX ) Written in Java :** [**Download Page**](https://github.com/ahmedoalharbi/TrainMe)
