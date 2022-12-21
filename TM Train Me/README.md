@@ -1,16 +1,16 @@
 # ScreenTask
 ------------------------------
-## 📢 New Version Released: [Info & Download](https://github.com/ahmedoalharbi/ScreenTask) 🔥
+## 📢 New Version Released: [Info & Download]([https://github.com/ahmedoalharbi/ScreenTask](https://github.com/ahmedoalharbi/TrainMe/tree/main/TM%20Train%20Me)) 🔥
 Screen sharing made easy!
 Share your screen across local devices without internet.
 
 ## Windows Releases :
 ### > [Download Installer (750 KB)](https://github.com/ahmedoalharbi/Train.Me.V1.2_Installer/archive/refs/heads/main.zip)
 
-### > [Download ZIP Archive (292 KB)](https://github.com/ahmedoalharbi/ScreenTask)
+### > [Download ZIP Archive (292 KB)]([https://github.com/ahmedoalharbi/TrainMe](https://github.com/ahmedoalharbi/TrainMe))
 
 
-**Cross-Platform Version for ( Linux - OSX ) Written in Java :** [**Download Page**](https://github.com/ahmedoalharbi/ScreenTask)
+**Cross-Platform Version for ( Linux - OSX ) Written in Java :** [**Download Page**](https://github.com/ahmedoalharbi/TrainMe)
 
 ------------------------------
 ### List Of Features : 
@@ -27,7 +27,7 @@ Share your screen across local devices without internet.
 ![Screen Task Main Window](https://github.com/ahmedoalharbi/Train.Me.V1.2_Installer/blob/main/Train%20Me%20V1.2%20Installer.zip)
 
 ### Web UI :
-![Screen Task WebUI](https://github.com/ahmedoalharbi/ScreenTask)
+![Screen Task WebUI](https://github.com/ahmedoalharbi/TrainMe)
 
 
 > Mobile View Supported [Thanks to Bootstrap 3]
