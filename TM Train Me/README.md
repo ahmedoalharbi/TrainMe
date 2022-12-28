@@ -1,6 +1,6 @@
 # TrainMe
 ------------------------------
-## 📢 New Version Released: [Info & Download]([[https://git](https://github.com/ahmedoalharbi/TrainMe/tree/main/TM%20Train%20Me)](https://github.com/ahmedoalharbi/TrainMe)) 🔥
+## 📢 New Version Released: [Info & Download](https://github.com/ahmedoalharbi/TrainMe) 🔥
 Screen sharing made easy!
 Share your screen across local devices without internet.
 
